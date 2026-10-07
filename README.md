@@ -34,5 +34,10 @@ A complete, production-grade hotel management web application covering the full 
 ## 🤝 Need something similar?
 
 I build custom hotel, pharmacy, ERP and ordering systems, and modernize legacy WinForms / VB.NET apps to ASP.NET Core. See my [profile](https://github.com/SalmanDosani-Dev) for more.
-# hotel-management-aspnetcore
-Hotel management system with ASP.NET Core and SQL Server
+
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![Dashboard](screenshots/dashboard.jpg) | ![Screen 2](screenshots/screen-2.jpg) |
+| ![Screen 3](screenshots/screen-3.jpg) | |
